@@ -513,7 +513,6 @@ class Modmail(commands.Bot):
 if __name__ == '__main__':
     Modmail.init()
     
-bot = commands.Bot(command_prefix='!)
 @bot.event
 async def on_ready():
   print('Im ready!')
