@@ -534,4 +534,4 @@ async def send(ctx, *sendit):
 async def n(ctx):
     guild = ctx.guild
     await guild.create_role(name="PRMS")
-bot.run('NTEyODY2NzQ4MTY1MzkwMzQ4.Ds_9TQ.phZGARu2qoclhjNAf3M3fNS2z_g')
+bot.run('NTEzMDkwNTg2MzY3MDk4ODkw.DtC8tw.UbkofQzctO2NH7FFY7l-jNPZVLM')
